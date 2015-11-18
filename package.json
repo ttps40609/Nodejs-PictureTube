@@ -1,0 +1,19 @@
+{
+  "name": "pig",
+  "version": "1.0.0",
+  "main": "index.js",
+  "dependencies": {
+    "picture-tube": "^1.0.0",
+    "request": "^2.65.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "bin" :{
+      "pig" : "./index.js"
+ }
+}
